@@ -36,8 +36,16 @@ nav ul li{
     width: 100%;
     text-align: center;
   }
-  
-.p-2 {
+  .form-group{
+    text-align: right;
+}
+  input{
+      text-align: right;
+  }
+  .checkbox{
+      text-align: right;
+  }
+.p-2 img {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
   .container h1{
